@@ -1,0 +1,8 @@
+﻿{
+  "idUser": 0,
+  "userName": "vAlexandru",
+  "password": "P@ssword1",
+  "email": "vieriu.alexandru.25@gmail.com",
+  "role": "Admin",
+  "date": "2021-05-13T14:41:34.660Z"
+}

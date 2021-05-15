@@ -1,0 +1,10 @@
+﻿https://www.freecodespot.com/blog/use-jwt-bearer-authorization-in-swagger/
+
+
+ValidateIssuer				= true » Validate the server that generates the token.
+ValidateAudience			= true » Validate the recipient of the token is authorized to receive.
+ValidateLifetime			= true » Check if the token is not expired and the signing key of the issuer is valid
+ValidateIssuerSigningKey	= true » Validate signature of the token
+ValidIssuer						   » stored in appsettings.json
+ValidAudience					   » stored in appsettings.json
+IssuerSigningKey				   » stored in appsettings.json
