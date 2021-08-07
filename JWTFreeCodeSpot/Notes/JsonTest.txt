@@ -1,8 +1,18 @@
-﻿{
-  "idUser": 0,
+﻿Register:
+
+{
+  "idUser": 7,
   "userName": "vAlexandru",
   "password": "P@ssword1",
   "email": "vieriu.alexandru.25@gmail.com",
   "role": "Admin",
-  "date": "2021-05-13T14:41:34.660Z"
+  "date": "2021-08-13"
+}
+
+
+Login:
+
+{
+  "userName": "vAlexandru",
+  "password": "P@ssword1"
 }

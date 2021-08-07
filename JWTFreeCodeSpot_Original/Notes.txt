@@ -1,0 +1,22 @@
+﻿https://www.freecodespot.com/blog/use-jwt-bearer-authorization-in-swagger/
+
+Login: 
+
+{
+  "email": "vieriu.alexandru@hotmail.com",
+  "password": "Password"
+}
+
+
+Register:
+
+{
+  "username": "valexandru",
+  "password": "Password",
+  "email": "vieriu.alexandru@hotmail.com",
+  "role": "User",
+  "date": "2021-08-02"
+}
+
+
+
